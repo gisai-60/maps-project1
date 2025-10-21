@@ -10,6 +10,5 @@ A place to learn about digital mapping.
    - Geographic Information Systems (GIS): GIS technology is the specialized system used to capture, store, process, and visualize this spatial data to create digital maps. 
    - Dynamic and interactive: Unlike static paper maps, digital maps are dynamic, allowing users to interact with them, zoom in, and get up-to-date information. 
    - Data analysis: [Digital maps](https://maptelligent.com/blog/what-is-digital-mapping/) are powerful tools for analyzing data. For example, they can be used to visualize demographic changes, analyze environmental data, or identify patterns that aren't obvious in a spreadsheet.
-
 This is a sample digital map:
 ![Preview](https://mapwarper.net/maps/tile/93674/%7Bz%7D/%7Bx%7D/%7By%7D.png)
