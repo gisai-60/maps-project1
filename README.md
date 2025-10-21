@@ -9,4 +9,4 @@ A place to learn about digital mapping.
    - Data storage: This geographic data is stored in digital formats, often in databases or on cloud platforms. 
    - Geographic Information Systems (GIS): GIS technology is the specialized system used to capture, store, process, and visualize this spatial data to create digital maps. 
    - Dynamic and interactive: Unlike static paper maps, digital maps are dynamic, allowing users to interact with them, zoom in, and get up-to-date information. 
-   - Data analysis: [Digital maps](https://www.usgs.gov/programs/national-geospatial-program/national-map) are powerful tools for analyzing data. For example, they can be used to visualize demographic changes, analyze environmental data, or identify patterns that aren't obvious in a spreadsheet. 
+   - Data analysis: [Digital maps](https://earth.google.com/earth/d/179tXedBMTVVUskHH1U9zFzEmo_wB5DE7?usp=sharing) are powerful tools for analyzing data. For example, they can be used to visualize demographic changes, analyze environmental data, or identify patterns that aren't obvious in a spreadsheet. 
