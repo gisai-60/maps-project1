@@ -13,7 +13,4 @@ A place to learn about digital mapping.
 This is a sample digital map:
 ![Preview](https://mapwarper.net/maps/tile/93674/%7Bz%7D/%7Bx%7D/%7By%7D.png)
 
-![Image][1]
-⋮
-[1]: http://url/b.jpg
 
