@@ -11,6 +11,6 @@ A place to learn about digital mapping.
    - Dynamic and interactive: Unlike static paper maps, digital maps are dynamic, allowing users to interact with them, zoom in, and get up-to-date information. 
    - Data analysis: [Digital maps](https://maptelligent.com/blog/what-is-digital-mapping/) are powerful tools for analyzing data. For example, they can be used to visualize demographic changes, analyze environmental data, or identify patterns that aren't obvious in a spreadsheet.
 This is a sample digital map:
-![Preview](https://mapwarper.net/maps/tile/93674/%7Bz%7D/%7Bx%7D/%7By%7D.png)
+![Preview](file:///C:/97718.png)
 
 
